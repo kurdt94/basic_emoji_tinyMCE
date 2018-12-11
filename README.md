@@ -14,3 +14,5 @@ TinyMCE basic Emoji plugin
             toolbar: 'emoji'
         });
 
+note:
+- when using sql be sure to have setup the database / tables / columns and environment to use utf8mb4 Character Set.
