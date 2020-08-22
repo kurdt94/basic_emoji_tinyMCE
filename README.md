@@ -1,5 +1,8 @@
 # basic_emoji_tinyMCE
 TinyMCE basic Emoji plugin 
+
+{{ OUTDATED, NO LONGER FUNCTIONAL IN tinyMCE v5, use NATIVE emoticons }}  
+
 - this plugin let's you add Emoji to the tinyMCE content via a panelbutton. 
 ( similar to the existing emoticons plugin )
 
